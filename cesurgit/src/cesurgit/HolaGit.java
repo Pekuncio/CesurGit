@@ -11,6 +11,8 @@ public class HolaGit {
 		int b =3;
 		
 		System.out.println("suma 2 numeros = " + (a+b));
+		
+		System.out.println("Fin proyecto");
 	}
 
 }
